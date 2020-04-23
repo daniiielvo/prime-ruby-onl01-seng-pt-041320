@@ -1,1 +1,1 @@
-
+def prime?(numbers)
